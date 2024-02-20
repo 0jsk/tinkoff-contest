@@ -1,0 +1,8 @@
+ru/jsk0/tinkoff/api/ApplicationStatusResponse$Failure.class
+ru/jsk0/tinkoff/api/ApplicationStatusResponse$Success.class
+ru/jsk0/tinkoff/Main.class
+ru/jsk0/tinkoff/api/Response$RetryAfter.class
+ru/jsk0/tinkoff/api/Response.class
+ru/jsk0/tinkoff/api/Response$Failure.class
+ru/jsk0/tinkoff/api/Response$Success.class
+ru/jsk0/tinkoff/api/ApplicationStatusResponse.class
